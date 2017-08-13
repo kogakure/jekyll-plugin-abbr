@@ -1,3 +1,5 @@
+![Maintenance](https://img.shields.io/maintenance/no/2012.svg)
+
 Jekyll plugin Abbreviation
 ==========================
 
